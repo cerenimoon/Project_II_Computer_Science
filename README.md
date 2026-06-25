@@ -25,15 +25,16 @@ Yüz görüntüleri sıkıştırılmıştır ve boyutlandırılmıştır. Model 
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
 - **Cluster Number - Küme Sayısı:** With usage of KMeans (K-Nearest Neighbor based algorithm), cluster numbers affect the accuracy of facial image grouping. 
+KMeans algoritmasının kullanımıyla (K-Nearest Neighbor tabanlı algoritma), küme sayısı yüz görüntülerinin gruplama doğruluğunu etkilemektedir. 
 <p align="center">
   <img width="56%" alt="image" src="https://github.com/user-attachments/assets/bdffceb9-a5ba-4e1f-a3b2-5fd6ff83454e" />
   <br>
-  <em>k=2 optimal cluster number for LFW Transfer Learning Model - LFW Transfer Learning LFW modeli için optimum küme sayısı</em>
+  <em>k=2 optimal cluster number for LFW Transfer Learning Model - LFW Transfer Learning modeli için optimum küme sayısı</em>
 </p>
 
 <p align="center">
   <img width="56%" alt="image" src="https://github.com/user-attachments/assets/06e52cba-8e4a-48eb-97a4-2e00e4861c55" />
   <br>
-  <em>k=5 </em>
+  <em>k=5 cluster number for LFW Transfer Learning Model - LFW Transfer Learning modeli için küme sayısı</em>
 </p>
 
