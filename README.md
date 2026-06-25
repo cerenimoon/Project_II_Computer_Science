@@ -24,4 +24,7 @@ Yüz görüntüleri sıkıştırılmıştır ve boyutlandırılmıştır. Model 
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Google Notebooks, Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
-- **Accuracy Improvement:**** 
+- **Accuracy Improvement:****
+<p align="center">
+  <img width="45%"  alt="image" src="https://github.com/user-attachments/assets/60b9bc75-d56b-4698-aec0-7f38d8ffb840" />
+</p>
