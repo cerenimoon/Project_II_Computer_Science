@@ -3,6 +3,9 @@
 ## 📌 Overview - Genel Bakış  
 - This repository features deep learning model for grouping face identitites by extracting similar features from facial images.
 - Bu kod tabanı, yüz görüntülerinin benzer özniteliklerini çıkararak yüz kimliklerini gruplayan derin öğrenme modeli içermektedir.
+<p align="center">
+  <img width="1061" height="337" alt="image" src="https://github.com/user-attachments/assets/122adc4e-80b8-44f1-b11f-d915c39e580d" />
+</p>
 
 ## 🚀 Key Features - Anahtar Özellikler
 - **Custom Model Training - Özel Model Eğitimi:** Fine-tuned VGG16 architecture using Transfer Learning for extracting similar features from facial images and used algorithms such as (K-Nearest Neighbor) for grouping similar facial features.
