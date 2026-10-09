@@ -20,7 +20,7 @@ Yüz görüntüleri sıkıştırılmıştır ve boyutlandırılmıştır. Model 
   <p align="center">
     <img width="45%"  alt="image" src="https://github.com/user-attachments/assets/12aba2d8-de61-42d6-a54d-9d46c294ffeb" />
   </p>
-- **Algorithms - Algoritmalar:** KNN, 
+- **Algorithms - Algoritmalar:** KNN 
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Google Notebooks, Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
