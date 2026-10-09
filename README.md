@@ -1,4 +1,4 @@
-# [Project_II_Computer_Science Project - Face Identity Grouping - Yüz Kimliklerinin Gruplanması]
+# [Project_II_Computer_Science Project - Face Identity Grouping - Yüz Kimliklerinin Gruplandırılması]
 
 ## 📌 Overview - Genel Bakış  
 - This repository features deep learning model for grouping face identitites by extracting similar features from facial images.
